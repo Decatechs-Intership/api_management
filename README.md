@@ -89,7 +89,7 @@ Default role include are "ROLE_USER and ROLE_SUPER_ADMIN". A user(with have "ROL
 Example de JSON to test the role change :
 ```json
 {
-"roles": ["ROLE_EDIT"]
+"roles": "ROLE_EDIT"
 }
 ```
 
